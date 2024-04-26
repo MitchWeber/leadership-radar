@@ -1,0 +1,48 @@
+{
+  "date": "2024.04",
+  "entries": [
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "CI/CD",
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Scrum",
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Kanban",
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "Shape Up",
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 3,
+      "label": "Waterfall",
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Radical Candor",
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "RabbitMQ",
+      "link": "https://engineering.zalando.com/tags/rabbitmq.html",
+      "moved": 0
+    }
+  ]
+}
