@@ -27,6 +27,18 @@
     },
     {
       "quadrant": 1,
+      "ring": 1,
+      "label": "Blameless Culture",
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 2,
+      "label": "The Art to get Unstuck",
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
       "ring": 3,
       "label": "Waterfall",
       "moved": 0

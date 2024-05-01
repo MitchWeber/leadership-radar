@@ -1,10 +1,8 @@
 # Motivation
 
-At [Zalando](http://zalando.de), we maintain a [public Tech
-Radar](http://zalando.github.io/tech-radar/) to help our engineering teams
-align on technology choices. It is based on the [pioneering work
-by ThoughtWorks](https://www.thoughtworks.com/radar).
+I grew from writing code to managing people. From individual contribution to leadership. During that time I was  lucky enough to have access to more experienced people that mentored me. However not everyone is so lucky and often we ask ourselves what are trends? What should I pick up? Does someone else have any experience with it.
 
+This is why I want to start an engineering leadership radar which is inspired by the work that ThoughtWorks did for their technology radar. The code for the visualisation was found on [Zalandos GitHub](www.github.com/zalando)
 This repository contains the code to generate the visualization:
 [`radar.js`](/docs/radar.js) (based on [d3.js v4](https://d3js.org)).
 Feel free to use and adapt it for your own purposes.
